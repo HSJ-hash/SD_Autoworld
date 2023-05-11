@@ -1,0 +1,6 @@
+﻿  FINAL-CARSERVICES-PRGCODE.cpp
+C:\Users\asus\Desktop\FINAL-CARSERVICES-PRGCODE\FINAL-CARSERVICES-PRGCODE.cpp(173,29): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\asus\Desktop\FINAL-CARSERVICES-PRGCODE\FINAL-CARSERVICES-PRGCODE.cpp(202,15): warning C4102: 'change': unreferenced label
+C:\Users\asus\Desktop\FINAL-CARSERVICES-PRGCODE\FINAL-CARSERVICES-PRGCODE.cpp(395,4): warning C4102: 'add': unreferenced label
+C:\Users\asus\Desktop\FINAL-CARSERVICES-PRGCODE\FINAL-CARSERVICES-PRGCODE.cpp(554,9): warning C4101: 'x': unreferenced local variable
+  FINAL-CARSERVICES-PRGCODE.vcxproj -> C:\Users\asus\Desktop\FINAL-CARSERVICES-PRGCODE\Debug\FINAL-CARSERVICES-PRGCODE.exe
